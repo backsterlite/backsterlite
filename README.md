@@ -64,5 +64,3 @@ Whether you need a smart bot, a high-performance scraper, or a data automation t
 - Telegram: [@backster128](https://t.me/backster128)
 - Email: backstercorp@gmail.com
 - LinkedIn: [Ivan Yarmoliuk](https://linkedin.com/in/yarmoliuk-ivan)
-
-)
